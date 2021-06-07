@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Jaspreet Singh",
+    "occupation": "Student",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "PROFILE.jpg",
+    "bio": "Hi there! I am Jaspreet!  I've been coding for over 2 years now. As a recat. I m studying in GNDEC,Ludhiana in INDIA. i love to write a code in react",
+    "contactmessage": "Get in touch with me to be a part of the my family !",
+    "email": "jassingh0244@gmail.com",
+    "phone": "+91 9463586110",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "New Dashmesh Nagar",
+      "city": "Rajpura",
+      "state": "Punjab",
+      "zip": "140401"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCT9boo_tHQiRrGcn631BeZQ",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=1000661887604623",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/jaspreet-singh-chopra-b63bb518a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/official_pb_39/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Jaspreet39",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +48,69 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Guru Nanak Dev Engineering College,Ludhiana",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2022",
+        "description": "Graduate with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Self",
+        "title": "Student",
+        "years": "May 2018 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "65%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "50%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "65%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "65%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "85%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Nteflix Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNlIUT2mLjNmdI_HviyTtPw4QmhdxryGK1B_4psPBVZUG8DPaARa5w-0_frOYWJ6jUNo&usqp=CAU",
+        "url": "https://netflix-clone-cf491.web.app/"
       },
       {
         "title": "LinkedIn Clone (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "https://i.pinimg.com/originals/c1/17/25/c117254de6fbc71a924865a5ddee1faf.png",
+        "url": "https://linkedin-clone-d0547.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "I am very good Learner, i am try to go depth in every logic that i try to perform",
+        "user": "--"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with react is actually owesome!",
+        "user": "--"
       }
     ]
   }
